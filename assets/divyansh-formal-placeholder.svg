@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900" fill="none">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6d7cff" />
+      <stop offset="100%" stop-color="#23c4a8" />
+    </linearGradient>
+  </defs>
+  <rect width="720" height="900" rx="36" fill="#0f1327"/>
+  <circle cx="360" cy="280" r="120" fill="url(#g1)"/>
+  <path d="M170 760c25-144 117-214 190-214s166 70 191 214" fill="url(#g1)"/>
+  <rect x="48" y="48" width="624" height="804" rx="28" stroke="rgba(255,255,255,0.25)" stroke-width="4"/>
+  <text x="360" y="95" text-anchor="middle" fill="#c7ceff" font-size="28" font-family="Inter, Arial, sans-serif">FORMAL PHOTO PLACEHOLDER</text>
+  <text x="360" y="840" text-anchor="middle" fill="#94a0e0" font-size="22" font-family="Inter, Arial, sans-serif">Replace with your professional headshot</text>
+</svg>
